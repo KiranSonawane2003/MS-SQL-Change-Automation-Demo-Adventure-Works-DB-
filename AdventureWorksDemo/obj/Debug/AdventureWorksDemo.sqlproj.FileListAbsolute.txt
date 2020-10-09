@@ -1,0 +1,10 @@
+D:\Database-Demo\AdventureWorksDemo\AdventureWorksDemo\AdventureWorksDemo\bin\Debug\AdventureWorksDemo.dacpac
+D:\Database-Demo\AdventureWorksDemo\AdventureWorksDemo\AdventureWorksDemo\bin\Debug\AdventureWorksDemo.dll
+D:\Database-Demo\AdventureWorksDemo\AdventureWorksDemo\AdventureWorksDemo\bin\Debug\AdventureWorksDemo.pdb
+D:\Database-Demo\AdventureWorksDemo\AdventureWorksDemo\AdventureWorksDemo\obj\Debug\AdventureWorksDemo.sqlprojAssemblyReference.cache
+D:\Database-Demo\AdventureWorksDemo\AdventureWorksDemo\AdventureWorksDemo\obj\Debug\Model.xml
+D:\Database-Demo\AdventureWorksDemo\AdventureWorksDemo\AdventureWorksDemo\obj\Debug\refactor.xml
+D:\Database-Demo\AdventureWorksDemo\AdventureWorksDemo\AdventureWorksDemo\obj\Debug\postdeploy.sql
+D:\Database-Demo\AdventureWorksDemo\AdventureWorksDemo\AdventureWorksDemo\obj\Debug\predeploy.sql
+D:\Database-Demo\AdventureWorksDemo\AdventureWorksDemo\AdventureWorksDemo\obj\Debug\AdventureWorksDemo.dll
+D:\Database-Demo\AdventureWorksDemo\AdventureWorksDemo\AdventureWorksDemo\obj\Debug\AdventureWorksDemo.pdb

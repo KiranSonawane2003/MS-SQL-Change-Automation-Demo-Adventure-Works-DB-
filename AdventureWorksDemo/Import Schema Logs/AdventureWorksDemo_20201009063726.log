@@ -1,0 +1,84 @@
+09-10-2020 12:07:26	This log contains information about the import schema operation into project 'AdventureWorksDemo' on computer 'WJLP-1269' by user 'kirans'.
+09-10-2020 12:07:26	Import of database schema has started.
+09-10-2020 12:07:57	Gathering logins
+09-10-2020 12:09:55	Gathering database credentials
+09-10-2020 12:09:55	Gathering database options
+09-10-2020 12:09:55	Gathering generic database scoped configuration option
+09-10-2020 12:09:55	Gathering users
+09-10-2020 12:09:55	Gathering roles
+09-10-2020 12:09:55	Gathering application roles
+09-10-2020 12:09:55	Gathering role memberships
+09-10-2020 12:09:55	Gathering filegroups
+09-10-2020 12:09:55	Gathering full-text catalogs
+09-10-2020 12:09:55	Gathering assemblies
+09-10-2020 12:09:55	Gathering certificates
+09-10-2020 12:09:55	Gathering symmetric keys
+09-10-2020 12:09:55	Gathering encrypted symmetric keys
+09-10-2020 12:09:55	Gathering schemas
+09-10-2020 12:09:55	Gathering XML schema collections
+09-10-2020 12:09:55	Gathering user-defined data types
+09-10-2020 12:09:55	Gathering user-defined types
+09-10-2020 12:09:55	Gathering table types
+09-10-2020 12:09:55	Gathering unique keys for table types
+09-10-2020 12:09:55	Gathering primary keys for table types
+09-10-2020 12:09:58	Gathering indexes for table types
+09-10-2020 12:09:58	Gathering check constraints for table types
+09-10-2020 12:09:58	Gathering default constraints for table types
+09-10-2020 12:09:58	Gathering partition functions
+09-10-2020 12:09:58	Gathering partition schemes
+09-10-2020 12:09:58	Gathering functions
+09-10-2020 12:09:59	Gathering encrypted functions
+09-10-2020 12:09:59	Gathering aggregates
+09-10-2020 12:09:59	Gathering procedures
+09-10-2020 12:09:59	Gathering encrypted procedures
+09-10-2020 12:09:59	Gathering tables
+09-10-2020 12:09:59	Gathering primary keys
+09-10-2020 12:09:59	Gathering unique constraints
+09-10-2020 12:10:00	Gathering foreign keys
+09-10-2020 12:10:00	Gathering default constraints
+09-10-2020 12:10:00	Gathering check constraints
+09-10-2020 12:10:00	Gathering views
+09-10-2020 12:10:00	Gathering encrypted views
+09-10-2020 12:10:00	Gathering indexes
+09-10-2020 12:10:00	Gathering statistics
+09-10-2020 12:10:00	Gathering full-text index stoplists
+09-10-2020 12:10:00	Gathering search property lists
+09-10-2020 12:10:00	Gathering search properties
+09-10-2020 12:10:00	Gathering full-text indexes
+09-10-2020 12:10:00	Gathering column store indexes
+09-10-2020 12:10:00	Gathering spatial indexes
+09-10-2020 12:10:00	Gathering XML indexes
+09-10-2020 12:10:00	Gathering Selective XML indexes
+09-10-2020 12:10:00	Gathering encrypted triggers
+09-10-2020 12:10:00	Gathering triggers
+09-10-2020 12:10:00	Gathering encrypted and clr ddl triggers
+09-10-2020 12:10:00	Gathering ddl triggers
+09-10-2020 12:10:00	Creating edge constraints
+09-10-2020 12:10:00	Gathering synonyms
+09-10-2020 12:10:00	Gathering defaults
+09-10-2020 12:10:00	Gathering data constraint uddt bindings
+09-10-2020 12:10:00	Gathering rules
+09-10-2020 12:10:00	Gathering data constraint uddt bindings
+09-10-2020 12:10:00	Gathering message types
+09-10-2020 12:10:00	Gathering queues
+09-10-2020 12:10:00	Gathering contracts
+09-10-2020 12:10:00	Gathering services
+09-10-2020 12:10:00	Gathering event notifications
+09-10-2020 12:10:00	Gathering remote service bindings
+09-10-2020 12:10:00	Gathering broker priorities
+09-10-2020 12:10:00	Gathering signatures
+09-10-2020 12:10:00	Gathering data compression options
+09-10-2020 12:10:00	Gathering sequence types
+09-10-2020 12:10:00	Gathering security policies
+09-10-2020 12:10:00	Gather column encryption keys
+09-10-2020 12:10:00	Gathering column master keys
+09-10-2020 12:10:00	Gathering external data sources
+09-10-2020 12:10:00	Gathering external tables
+09-10-2020 12:10:00	Gathering database permissions
+09-10-2020 12:10:01	Gathering extended properties
+09-10-2020 12:10:10	Gathering logins
+09-10-2020 12:10:16	Scanning project for duplicate elements
+09-10-2020 12:10:16	Finished duplicate element processing
+09-10-2020 12:10:17	Finished importing database.
+09-10-2020 12:10:17	A summary of the import was saved to the following location: D:\Database-Demo\AdventureWorksDemo\AdventureWorksDemo\AdventureWorksDemo\Import Schema Logs\AdventureWorksDemo_20201009063726.log
+09-10-2020 12:10:17	Click Finish to continue...
